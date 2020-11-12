@@ -142,6 +142,7 @@ $string['selectcolor'] = 'Select color';
 $string['selectcolor_help'] = 'Choose your own color for your classroom';
 $string['sharerecordingfile'] = 'Are you sure that you want to share the recorded file <br> "{$a}"?';
 $string['share'] = 'Share';
+$string['courselist'] = 'Course List';
 $string['httpserror'] = 'Warning! HTTPS (SSL) is required for Congrea. It is detected that at present Moodle is not running on https and hence some features of Congrea may not work.';
 $string['testingbrowser'] = 'Testing Browser Compatibility';
 $string['testinginternetspeed'] = 'Testing Internet Speed';
